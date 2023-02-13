@@ -1,2 +1,2 @@
 # VehicleIdentifier
-Detección tipo de carrocerías de vehiculos con una red neuronal entrenada con YoloV5
+Identificacion de tipos de vehiculos con TensorFlow y Python
